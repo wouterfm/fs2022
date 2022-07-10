@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.btn {
+    @apply text-base font-medium rounded-lg p-3;
+  }
+.btn--primary {
+    @apply bg-pink-700 text-white;
+  }
+
+  .router-link-active {
+    @apply font-bold;
+  }
