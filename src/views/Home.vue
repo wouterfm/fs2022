@@ -9,6 +9,5 @@ return {
 
 <template>
 <div>
-  <span class="text-black">asdasd</span>
 </div>
 </template>
