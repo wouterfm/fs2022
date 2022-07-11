@@ -8,5 +8,6 @@ return {
 </script>
 
 <template>
-<p>Welkom jongs!</p>
+<div>
+</div>
 </template>
