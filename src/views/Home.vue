@@ -7,8 +7,8 @@ export default {
 </script>
 
 <template>
-  <main class="relative top-12 block lg:top-16">
-    <section class="mt-4 px-5">
+  <main class="mt-12 block lg:mt-16">
+    <section class="block">
       <div
         class="mx-auto max-w-sm sm:max-w-lg md:max-w-xl lg:max-w-3xl xl:max-w-5xl"
       >
@@ -19,7 +19,7 @@ export default {
           We're creating.
         </h1>
         <p
-          class="mt-4 max-w-lg py-4 text-left text-base font-semibold text-light sm:text-center sm:text-lg md:max-w-3xl md:text-xl lg:max-w-4xl lg:text-2xl xl:max-w-5xl xl:text-3xl"
+          class="mt-10 max-w-lg text-left text-base font-semibold text-light sm:text-center sm:text-lg md:max-w-3xl md:text-xl lg:max-w-4xl lg:text-2xl xl:max-w-5xl xl:text-3xl"
         >
           Creating cutting-edge audio imaging around the world. At Flagged
           Studios, we believe in creating instead of building. We’re not just
@@ -28,7 +28,8 @@ export default {
         </p>
       </div>
     </section>
-    <section class="relative mt-8">
+
+    <section class="mt-8">
       <div
         class="mx-auto grid max-w-sm grid-cols-2 gap-4 sm:max-w-lg md:max-w-xl lg:max-w-3xl xl:max-w-5xl"
       >

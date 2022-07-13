@@ -7,7 +7,7 @@ export default {
 </script>
 
 <template>
-  <main class="relative top-12 block lg:top-16">
+  <main class="mt-12 block lg:mt-16">
     <section class="mt-4 px-5">
       <div
         class="mx-auto max-w-sm sm:max-w-lg md:max-w-xl lg:max-w-3xl xl:max-w-5xl"

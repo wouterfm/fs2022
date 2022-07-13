@@ -18,7 +18,7 @@ export default {
 };
 </script>
 <template>
-  <nav
+  <header
     class="w-100 fixed top-0 bottom-0 left-0 right-0 z-50 block h-12 bg-nav p-0 backdrop-blur-md lg:h-16"
   >
     <div
@@ -55,7 +55,7 @@ export default {
         ></i>
       </div>
     </div>
-  </nav>
+  </header>
   <div
     class="w-100 fixed top-0 bottom-0 left-0 right-0 z-40 h-full bg-dark p-0 pt-12 lg:pt-16"
     :class="{ block: menu, hidden: !menu }"
